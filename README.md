@@ -1,2 +1,2 @@
-# MonkeyTreadmillObstacle
-Codebase for monkey obstacle avoidance project
+# Distinct neural subspaces during obstacle avoidance
+Codebase for obstacle avoidance project
